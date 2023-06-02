@@ -1,3 +1,27 @@
 # Code-for-JavaScript
 
  手写各种javacripts实现
+
+1. [函数防抖与节流](https://github.com/fltenwall/Code-for-JavaScript/Code/函数防抖与节流)
+2. [快照沙箱](https://github.com/fltenwall/Code-for-JavaScript/Code/快照沙箱)
+3. [类型判断](https://github.com/fltenwall/Code-for-JavaScript/Code/类型判断)
+4. [手写Jsonp](https://github.com/fltenwall/Code-for-JavaScript/Code/手写Jsonp)
+5. [数组扁平化-es5](https://github.com/fltenwall/Code-for-JavaScript/Code/数组扁平化-es5)
+6. [数组扁平化-es6.js](https://github.com/fltenwall/Code-for-JavaScript/Code/数组扁平化-es6)
+7. [数组负数索引](https://github.com/fltenwall/Code-for-JavaScript/Code/数组负数索引)
+8. [数组结构转树形结构](https://github.com/fltenwall/Code-for-JavaScript/Code/数组结构转树形结构)
+9. [完美深拷贝](https://github.com/fltenwall/Code-for-JavaScript/Code/完美深拷贝)
+10. [尾递归优化实现斐波那契数列](https://github.com/fltenwall/Code-for-JavaScript/Code/尾递归优化实现斐波那契数列)
+11. [用迭代器实现斐波那契数列](https://github.com/fltenwall/Code-for-JavaScript/Code/用迭代器实现斐波那契数列)
+12. [apply手写实现](https://github.com/fltenwall/Code-for-JavaScript/Code/apply手写实现)
+13. [bind手写实现](https://github.com/fltenwall/Code-for-JavaScript/Code/bind手写实现)
+14. [call手写实现](https://github.com/fltenwall/Code-for-JavaScript/Code/call手写实现)
+15. [es5实现类的继承](https://github.com/fltenwall/Code-for-JavaScript/Code/es5实现类的继承)
+16. [es5实现面向对象继承](https://github.com/fltenwall/Code-for-JavaScript/Code/es5实现面向对象继承)
+17. [es6中的面向对象](https://github.com/fltenwall/Code-for-JavaScript/Code/es6中的面向对象)
+18. [es6中类的继承](https://github.com/fltenwall/Code-for-JavaScript/Code/es6中类的继承)
+19. [events](https://github.com/fltenwall/Code-for-JavaScript/Code/events)
+20. [js并发](https://github.com/fltenwall/Code-for-JavaScript/Code/js并发)
+21. [js并发2](https://github.com/fltenwall/Code-for-JavaScript/Code/js并发2)
+22. [parseQueryString](https://github.com/fltenwall/Code-for-JavaScript/Code/parseQueryString)
+23. [proxy代理沙箱](https://github.com/fltenwall/Code-for-JavaScript/Code/proxy代理沙箱)
